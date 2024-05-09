@@ -1,25 +1,4 @@
-# [RareSkills](https://rareskills.io) Gas Puzzles
-
-If you want to learn about gas optimization, take the [Udemy gas optimization course](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/?referralCode=C4684D6872713525E349)!
-
-## Puzzles that are ready for you
-- [x] Distribute (hard)
-- [x] Array Sum (easy)
-- [x] Mint150 (hard)
-- [x] ERC165 (low level programming required)
-- [x] Array Sort (medium)
-- [x] Security101 (easy/medium)
-- [ ] Escrow
-- [ ] EscrowV2
-- [ ] Mint
-- [ ] Presale
-- [x] Vote (easy)
-- [x] Require (easy)
-- [ ] Staking
-
-## Contributors
-
-DO NOT COMMIT SOLUTIONS, BE SURE TO PUT ANSWERS IN `contracts/contracts_optimized` to ensure they fall into the `.gitignore`
+I am using these puzzels just for learning purpose.
 
 ## Players
 
